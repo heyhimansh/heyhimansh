@@ -1,10 +1,5 @@
 ### Hey there 👋
 
- 
-- 💬 Ask me about anything, I am happy to help;
-- 📫 How to reach me: [@Himanshu](https://mail.google.com/mail/u/1/#inbox);
-- ✨ **Wanna Talk?**
-
 
 ### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 <a href="https://discord.com/channels/@me">

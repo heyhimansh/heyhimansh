@@ -3,7 +3,6 @@
 <!--
 **heyhimansh/heyhimansh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
 ### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 <a href="https://discord.com/channels/@me">
@@ -48,8 +47,8 @@ Hi, I'm Himanshu, a passionate self-taught coder.
 
 If you like what I do, maybe consider buying me a coffee/tea 🥺👉👈
 <br/><br/>
-<br/><br/>
-<br/><br/>
+<br/><br/> 
+
 
 📈 My GitHub Stats
 

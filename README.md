@@ -48,9 +48,9 @@ If you like what I do, maybe consider buying me a coffee/tea 🥺👉👈
 
 📈 My GitHub Stats
 
-<h1 align="center">[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-<h1 align="center">![HIMANSHU's GitHub stats](https://github-readme-stats.vercel.app/api?username=heyhimansh&show_icons=true&theme=radical)
+![HIMANSHU's GitHub stats](https://github-readme-stats.vercel.app/api?username=heyhimansh&show_icons=true&theme=radical)
 <!DOCTYPE html>
 <html>
 <head>

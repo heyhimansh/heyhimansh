@@ -1,3 +1,5 @@
+<h1 align="center">Hi 👋, I'm Himanshu </h1>
+<h3 align="center">A second year student at DTU(Delhi Technological University), currently developing my skills in Machine Learning and Competitive Programming.</h3>
 ### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 <a href="https://discord.com/channels/@me">
   <img align="left" alt="Himanshu's Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />

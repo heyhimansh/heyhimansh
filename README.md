@@ -51,9 +51,6 @@ Hi, I'm Himanshu, a passionate self-taught coder.
 </br>
 </br>
 </br>
-</br>
-</br>
-</br>
 
 
 📈 My GitHub Stats

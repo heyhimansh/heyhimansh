@@ -38,6 +38,9 @@ Hi, I'm Himanshu, a passionate self-taught coder.
 - 💬 Ask me about anything, I am happy to help;
 - 📫 How to reach me: [@Himanshu](https://mail.google.com/mail/u/1/#inbox);
 - ✨ **Wanna Talk?**
+<p>
+</br>
+</br>
 
 **Languages and Tools:**  
 

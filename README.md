@@ -60,12 +60,6 @@ If you like what I do, maybe consider buying me a coffee/tea 🥺👉👈
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-![HIMANSHU's GitHub stats](https://github-readme-stats.vercel.app/api?username=heyhimansh&show_icons=true&theme=radical)
-<!DOCTYPE html>
-<html>
-<head>
-<link rel="stylesheet" href="https://www.flaticon.com/free-icon/ninja-shuriken_12773?term=ninja&page=1&position=3&page=1&position=3&related_id=12773&origin=style">
-</head>
-<body>
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=heyhimansh&show_icons=true&theme=gotham" alt="heyhimansh" />
 
 

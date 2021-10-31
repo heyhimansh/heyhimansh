@@ -28,11 +28,8 @@
 
 Hi, I'm Himanshu, a passionate self-taught coder.
 
-  <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="420" height="320" />
-<p>
-</br>
-</br> 
- 
+  <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="420" height="300" />
+
  
 - 💬 Ask me about anything, I am happy to help;
 - 📫 How to reach me: [@Himanshu](https://mail.google.com/mail/u/1/#inbox);

@@ -1,12 +1,7 @@
+<!-- Header  -->
 <h1 align="center">Hi 👋, I'm Himanshu </h1>
 <h3 align="center">A second year student at DTU(Delhi Technological University), currently developing my skills in Machine Learning and Competitive Programming.</h3>
 <!-- Header  -->
-<h1 align="center">
-  Hello!~ 
-  <img alt="wave" src="https://emojis.slackmojis.com/emojis/images/1613285697/12806/meow_attention.png?1613285697" width="36">
-   I'm Himanshu
-</h1>
-
 
 <!-- Contribution Graph-->
 

@@ -51,7 +51,9 @@ Hi, I'm Himanshu, a passionate self-taught coder.
 
 📈 My GitHub Stats
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=heyhimansh&label=Profile%20views&color=6765D1&style=flat" alt="hey himansh" width="140" height="25" /> </p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=heyhimansh&theme=dark&show_icons=true&locale=en&layout=compact" alt="himanshu" /></p>
+
+
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=heyhimansh&show_icons=true&theme=gotham" alt="heyhimansh" />
 
 

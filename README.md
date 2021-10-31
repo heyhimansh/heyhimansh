@@ -1,5 +1,18 @@
 <h1 align="center">Hi 👋, I'm Himanshu </h1>
 <h3 align="center">A second year student at DTU(Delhi Technological University), currently developing my skills in Machine Learning and Competitive Programming.</h3>
+<!-- Header  -->
+<h1 align="center">
+  Hello!~ 
+  <img alt="wave" src="https://emojis.slackmojis.com/emojis/images/1613285697/12806/meow_attention.png?1613285697" width="36">
+   I'm Himanshu
+</h1>
+
+
+<!-- Contribution Graph-->
+
+![](https://activity-graph.herokuapp.com/graph?username=heyhimansh&theme=react-dark&hide_border=true&area=true)
+</br>
+
 ### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 <a href="https://discord.com/channels/@me">
   <img align="left" alt="Himanshu's Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />

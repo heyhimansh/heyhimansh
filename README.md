@@ -55,8 +55,7 @@ Hi, I'm Himanshu, a passionate self-taught coder.
 📈 My GitHub Stats
 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=heyhimansh&theme=dark&show_icons=true&locale=en&layout=compact" alt="himanshu" /></p>
-
-
+</br>
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=heyhimansh&show_icons=true&theme=gotham" alt="heyhimansh" />
 
 

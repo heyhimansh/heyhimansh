@@ -1,6 +1,6 @@
 <!-- Header  -->
 <h1 align="center">Hi 👋, I'm Himanshu </h1>
-<h3 align="center">A second year student at DTU(Delhi Technological University), currently developing my skills in Machine Learning and Competitive Programming.</h3>
+
 <!-- Header  -->
 
 <!-- Contribution Graph-->

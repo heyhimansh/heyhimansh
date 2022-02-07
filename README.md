@@ -25,7 +25,7 @@
 ![](https://visitor-badge.glitch.me/badge?page_id=heyhimansh.heyhimansh)
 
 <br />
-<img align="right" alt="GIF" src="https://www.bing.com/th/id/OGC.33a13d5ff908c5f13308025c525e9608?pid=1.7&rurl=http%3a%2f%2fmsurguy.github.io%2fgifloopcoder.com%2fexample1.gif&ehk=bDTn2eeRha0lWFmsYc%2bizgQlG4nM9edmRA5CS6jsoos%3d" width="420" height="300" />
+<img align="right" alt="GIF" src="https://www.bing.com/th/id/OGC.33a13d5ff908c5f13308025c525e9608?pid=1.7&rurl=http%3a%2f%2fmsurguy.github.io%2fgifloopcoder.com%2fexample1.gif&ehk=bDTn2eeRha0lWFmsYc%2bizgQlG4nM9edmRA5CS6jsoos%3d" width="420" height="400" />
 
 Hi, I'm Himanshu, a passionate self-taught coder.
 

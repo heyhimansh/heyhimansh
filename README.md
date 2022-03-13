@@ -23,7 +23,7 @@
 </a>
 
 ![](https://visitor-badge.glitch.me/badge?page_id=heyhimansh.heyhimansh)
-<img align="right" alt="GIF" src="https://www.bing.com/th/id/OGC.f0fef1eb96e50c4820eee35462a62ab2?pid=1.7&rurl=https%3a%2f%2fmedia.giphy.com%2fmedia%2fK5kfQExKk731K%2fgiphy.gif&ehk=t%2bOXEOm0mQVWtNiU0oWXspjN1b%2buZL7ZOsyylgB0suU%3d" width="420" height="380" style="margin-left : 5%"/>
+<img align="right" alt="GIF" src="https://www.bing.com/th/id/OGC.f0fef1eb96e50c4820eee35462a62ab2?pid=1.7&rurl=https%3a%2f%2fmedia.giphy.com%2fmedia%2fK5kfQExKk731K%2fgiphy.gif&ehk=t%2bOXEOm0mQVWtNiU0oWXspjN1b%2buZL7ZOsyylgB0suU%3d" width="400" height="360" style="margin-left : 5%"/>
 <br />
 
 

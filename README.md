@@ -8,7 +8,7 @@
 ![](https://activity-graph.herokuapp.com/graph?username=heyhimansh&theme=react-dark&hide_border=true&area=true)
 </br>
 
-### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="10px">
+### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="2px">
 <a href="https://discord.com/channels/@me">
   <img align="left" alt="Himanshu's Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
 </a>

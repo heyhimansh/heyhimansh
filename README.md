@@ -5,8 +5,6 @@
 
 <!-- Contribution Graph-->
 
-![](https://activity-graph.herokuapp.com/graph?username=heyhimansh&theme=react-dark&hide_border=true&area=true)
-</br>
 
 
 <a href="https://discord.com/channels/@me">

@@ -52,7 +52,9 @@ Hi, I'm Himanshu, a passionate self-taught coder.
 
 📈 My GitHub Stats
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=heyhimansh&theme=dark&show_icons=true&locale=en&layout=compact" alt="himanshu" /></p>
-</br>
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&count_private=true)
+<!-- <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=heyhimansh&theme=dark&show_icons=true&locale=en&layout=compact" alt="himanshu" /></p>
+</br> -->
+
+<span href="https://github.com/heyhimansh/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=heyhimansh&count_private=true" alt="Himanshu's github stats" /></span> 
+<span href="https://github.com/heyhimansh/github-readme-stats"><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=heyhimansh&theme=dark&show_icons=true&locale=en&layout=compact" alt="Himanshu's github stats" /></span> 
 

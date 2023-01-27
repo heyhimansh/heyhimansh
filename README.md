@@ -51,11 +51,20 @@ Hi, I'm Himanshu, a passionate self-taught coder.
 
 <!-- <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=heyhimansh&theme=dark&show_icons=true&locale=en&layout=compact" alt="himanshu" /></p>
 </br> -->
+<br>
 
 
 <a href="https://github.com/heyhimansh/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=heyhimansh&count_private=true" alt="Himanshu's github stats" /></a> 
+
+<a href="https://github.com/heyhimansh/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=heyhimansh&theme=dark&show_icons=true&locale=en&layout=compact" alt="Himanshu's github stats" /></a> 
+<br>
 <br>
 
+<div>
+<h2> Some Programming Humor for you <img align ="center" src='https://media2.giphy.com/media/UQDSBzfyiBKvgFcSTw/giphy.gif?cid=ecf05e47p3cd513axbek3f56ti3jzizq8hincw20jauyyfyw&rid=giphy.gif' width = '32px'></h2>
+
+![Jokes Card](https://readme-jokes.vercel.app/api?theme=dracula)
+
+</div>
 <br>
-<a href="https://github.com/heyhimansh/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=heyhimansh&theme=dark&show_icons=true&locale=en&layout=compact" alt="Himanshu's github stats" /></a> 
 

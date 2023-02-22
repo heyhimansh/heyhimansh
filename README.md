@@ -62,6 +62,5 @@ Hi, I'm Himanshu, a passionate self-taught coder.
   </div>
 <br>
 
-
 <br>
 

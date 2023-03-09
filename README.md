@@ -51,16 +51,12 @@ Hi, I'm Himanshu, a passionate self-taught coder.
 
 <!-- <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=heyhimansh&theme=dark&show_icons=true&locale=en&layout=compact" alt="himanshu" /></p>
 </br> -->
-<br>
-
-
-<div>
-<a href="https://github.com/heyhimansh/github-readme-stats"><img align="left" src="https://github-readme-stats.vercel.app/api?username=heyhimansh&count_private=true" alt="Himanshu's github stats" /></a> 
-
-<a href="https://github.com/heyhimansh/github-readme-stats"><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=heyhimansh&theme=dark&show_icons=true&locale=en&layout=compact" alt="Himanshu's github stats" /></a> 
-<br>
-  </div>
-<br>
+  <br/>
+<a href="https://github.com/heyhimansh/github-readme-stats" ><img alt="Himanshu's Github Stats" src="https://github-readme-stats.vercel.app/api?username=heyhimansh&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" />
+  </a>
+<a href="https://github.com/heyhimansh/github-readme-stats"><img alt="Himanshu's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=heyhimansh&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" />
+   </a>
+  <br/>
 
 <br>
 

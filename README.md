@@ -5,7 +5,7 @@
 
 <!-- Contribution Graph-->
 
-
+<!--
 <a href="https://discord.com/channels/@me">
   <img align="left" alt="Himanshu's Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
 </a>
@@ -50,6 +50,9 @@ Hi, I'm Himanshu, a passionate self-taught coder.
 
 <!-- <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=heyhimansh&theme=dark&show_icons=true&locale=en&layout=compact" alt="himanshu" /></p>
 </br> -->
+  <br/>
+  
+📈 My GitHub Stats
   <br/>
 <a href="https://github.com/heyhimansh/github-readme-stats" ><img alt="Himanshu's Github Stats" src="https://github-readme-stats.vercel.app/api?username=heyhimansh&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" />
   </a>

@@ -4,7 +4,6 @@
 <!-- Header  -->
 
 <!-- Contribution Graph-->
-
 <!--
 <a href="https://discord.com/channels/@me">
   <img align="left" alt="Himanshu's Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
@@ -30,7 +29,6 @@ Hi, I'm Himanshu, a passionate self-taught coder.
 - 📫 How to reach me: [@Himanshu](https://mail.google.com/mail/u/1/#inbox);
 - ✨ **Wanna Talk?**
 <p>
-</br>
 </br>
 
 **Languages and Tools:**  

@@ -57,6 +57,5 @@ Hi, I'm Himanshu, a passionate self-taught coder.
 <a href="https://github.com/heyhimansh/github-readme-stats"><img alt="Himanshu's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=heyhimansh&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" />
    </a>
   <br/>
-
 <br>
 

@@ -93,3 +93,17 @@ Hi, I'm Himanshu, a passionate self-taught coder.
    &nbsp;
 <a href="https://github.com/heyhimansh/github-readme-stats"><img alt="Himanshu's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=heyhimansh&langs_count=10&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /> -->
 
+
+
+## Connect with me  
+<div align="center">
+ <a href="https://www.linkedin.com/in/himanshu-rathore-537885202/" target="_blank">
+<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+</a>
+<a href="https://github.com/heyhimansh" target="_blank">
+<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+</a>
+<!-- <a href="https://instagram.com/himansh_rathore_" target="_blank">
+<img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
+</a> -->
+</div

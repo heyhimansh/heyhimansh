@@ -103,7 +103,11 @@ Hi, I'm Himanshu, a passionate self-taught coder.
 <a href="https://github.com/heyhimansh" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
+
 <!-- <a href="https://instagram.com/himansh_rathore_" target="_blank">
 <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
 </a> -->
+![ProfileCount](https://visitcount.itsvg.in/api?id=heyhimansh&icon=6&color=9)
 </div
+
+

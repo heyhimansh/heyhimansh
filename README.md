@@ -105,14 +105,11 @@ Hi, I'm Himanshu, a passionate self-taught coder.
 </a>
 
 <!-- <a href="https://instagram.com/himansh_rathore_" target="_blank">
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=heyhimansh&" alt="hima" /></p>
 <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
 </a> -->
 ![ProfileCount](https://visitcount.itsvg.in/api?id=heyhimansh&icon=6&color=11)
 </div
 
-<!--
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=heyhimansh&" alt="hima" /></p>
-
--->
 
 

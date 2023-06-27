@@ -110,4 +110,9 @@ Hi, I'm Himanshu, a passionate self-taught coder.
 ![ProfileCount](https://visitcount.itsvg.in/api?id=heyhimansh&icon=6&color=11)
 </div
 
+<!--
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=heyhimansh&" alt="hima" /></p>
+
+-->
+
 

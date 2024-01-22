@@ -55,7 +55,7 @@ Hi, I'm Himanshu, a passionate self-taught coder.
   <a href="https://github.com/heyhimansh/github-readme-stats" ><img alt="Himanshu's Github Stats" src="https://github-readme-stats.vercel.app/api?username=heyhimansh&theme=react&hide_border=true&bg_color=0D1117&include_all_commits=true&count_private=true" />
   </a>
    &nbsp;
-<a href="https://github.com/heyhimansh/github-readme-stats"><img alt="Himanshu's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=heyhimansh&langs_count=10&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" />
+<a href="https://github.com/heyhimansh/github-readme-stats"><img alt="Himanshu's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=heyhimansh&langs_count=12&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" />
 
 
 

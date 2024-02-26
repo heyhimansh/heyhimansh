@@ -1,6 +1,7 @@
 <!-- Header  -->
 <h1 align="center">Hi 👋, I'm Himanshu </h1>
 
+
 <!-- Header  -->
 
 <!-- Contribution Graph-->
@@ -14,7 +15,6 @@
 <a href="https://www.linkedin.com/in/himanshu-rathore-537885202/">
   <img align="left" alt="Himanshu's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
-
 
 ![](https://visitor-badge.glitch.me/badge?page_id=heyhimansh.heyhimansh)
 
@@ -94,6 +94,7 @@ Hi, I'm Himanshu, a passionate self-taught coder.
   </a>
    &nbsp;
 <a href="https://github.com/heyhimansh/github-readme-stats"><img alt="Himanshu's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=heyhimansh&langs_count=10&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /> -->
+
 
 
 

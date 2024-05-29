@@ -60,12 +60,17 @@ Hi, I'm Himanshu, a passionate self-taught coder.
 
 
 
-
-
-
    
    <br>
    <br>
+   
+## Streak
+
+<p align="center">
+    <a href="https://github.com/heyhimansh/github-readme-streak-stats">
+        <img alt="Himanshu's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=heyhimansh&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
+    </a>
+</p>
   
 <!--   lang comp -->
 <!-- 

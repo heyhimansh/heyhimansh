@@ -48,7 +48,10 @@ Hi, I'm Himanshu, a passionate self-taught coder.
 
 <!-- <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=heyhimansh&theme=dark&show_icons=true&locale=en&layout=compact" alt="himanshu" /></p>
 </br> -->
-  <br/>
+  
+  <!-- /////////////////////////////////////// MAIN -->
+   
+  <!--<br/>
   
 📈 My GitHub Stats
   <br/>
@@ -87,6 +90,11 @@ Hi, I'm Himanshu, a passionate self-taught coder.
   <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=100&section=footer"/>
 </p> -->
 
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=heyhimansh&theme=gruvbox) 
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=heyhimansh&theme=gruvbox) 
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=heyhimansh&theme=gruvbox) 
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=heyhimansh&theme=gruvbox)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=heyhimansh&theme=gruvbox&utcOffset=8) 
   
 <br>
   
@@ -119,6 +127,5 @@ Hi, I'm Himanshu, a passionate self-taught coder.
  
 ![ProfileCount](https://visitcount.itsvg.in/api?id=heyhimansh&icon=6&color=11)
 </div
-
 
 

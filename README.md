@@ -89,14 +89,16 @@ Hi, I'm Himanshu, a passionate self-taught coder.
 <p align="left">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=100&section=footer"/>
 </p> -->
+<div align="center">
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=heyhimansh&theme=gruvbox) 
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=heyhimansh&theme=gruvbox) 
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=heyhimansh&theme=gruvbox) 
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=heyhimansh&theme=gruvbox)
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=heyhimansh&theme=gruvbox&utcOffset=8) 
-  
-<br>
+  ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=heyhimansh&theme=gruvbox) 
+  ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=heyhimansh&theme=gruvbox) 
+  ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=heyhimansh&theme=gruvbox) 
+  ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=heyhimansh&theme=gruvbox)
+  ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=heyhimansh&theme=gruvbox&utcOffset=8)
+
+</div>
+
   
 <!--   
   
